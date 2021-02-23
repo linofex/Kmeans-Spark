@@ -2,7 +2,7 @@
 
 Cloud Computing Project regarding Big Data Processing module.
 
-This project and the [ "K-means-Hadoop"](https://github.com/lossi771/K-means-Hadoop/) are part of the same Cloud Computing Project for Big Data Processing whose specification can be found in the PDF file [ "Kmeans Specs"](https://github.com/lossi771/Kmeans-Spark/blob/master/Kmeans%20Specs.pdf)
+This project and the [ "Kmeans-Hadoop"](https://github.com/lossi771/Kmeans-Hadoop/) are part of the same Cloud Computing Project for Big Data Processing whose specification can be found in the PDF file [ "Kmeans Specs"](https://github.com/lossi771/Kmeans-Spark/blob/master/Kmeans%20Specs.pdf)
 
 ["kmeans.py"](https://github.com/lossi771/Kmeans-Spark/blob/master/kmeans.py) implements the required specification.
  
